@@ -13,7 +13,7 @@ This project mainly focuses on Tracking of all cars from CCTV surveillance camer
 
 # Flow Chart 
 
-![Alt text](https://drive.google.com/file/d/1yPnDwa_Q9AuERsMdtxY-5hcvAlXZ3up-/view?usp=sharing)
+![Flow chart](Flow_chart.PNG)
 # Appendix
 
 ### SpeedRadar
@@ -57,5 +57,5 @@ To deploy this project run
 ```
 ## Demo
 
-Insert gif or link to demo
+![working](working.PNG)
 
